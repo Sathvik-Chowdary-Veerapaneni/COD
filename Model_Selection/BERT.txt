@@ -1,0 +1,19 @@
+# BERT Model Selection
+
+Pros:-
+
+1. The Bidirectional transfomer, is a pre-trained model with massive corupus of text and parameters
+2. Better at understanding a sentence, and capabile of text generation
+3. Even can understand multiple language input formats
+
+Average Computing:-
+1. Sentence Tokenization
+2. Embeddings
+3. cosine calculatios, sentence similarity score
+
+
+
+cons:-
+1. Model Inference, Hosting and Running - required potential cost
+2. Adapting new terminology, and unseen data is unkown(yet), how it will be handeld
+
