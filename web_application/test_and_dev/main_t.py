@@ -10,7 +10,7 @@ st.title('Country of Ideas')
 user_input = st.text_area("Enter your idea:", height=200, placeholder="Type here...")
 submitted = st.button('Submit →')
 
-#  HTML and CSS to display the submission text, within a styled box
+#  HTML and CSS to display the submission text, within a styled boxc
 if submitted:
     st.markdown(f"""
     <style>
