@@ -39,3 +39,9 @@ To overcome this with upgraded models, we had **SBERT**.
       2. when botj sentences are passed through pooling layers, we have two 768 dimensional vectors **u and v**.
       3. using these two vectos, authors proposed three approches
          1. Classification Objective - 
+
+- NLI - Natural Language Inference
+- 3 Lables
+  - Entailment: If A is true, B must also be true.
+  - Neutral: If A is true, it doesn't necessarily affect B—it can be true or false.
+  - Contradiction: If A is true, then B must be false.
